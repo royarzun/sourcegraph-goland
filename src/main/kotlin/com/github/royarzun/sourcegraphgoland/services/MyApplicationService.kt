@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.royarzun.sourcegraphgoland.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.royarzun.sourcegraphgoland.MyBundle
 
 class MyApplicationService {
 
